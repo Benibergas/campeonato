@@ -44,4 +44,4 @@ jobs:
         context: .
         file: ./Dockerfile
         push: true
-        tags: ezambomsantana/campeonato-ci:${{ github.sha }}
+        tags: Benibergas/campeonato-ci:${{ github.sha }}
